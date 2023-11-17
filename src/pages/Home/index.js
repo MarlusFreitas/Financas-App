@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <View syle={StyleSheet.container}>
       <Header name="Marlus (Cliente)" />
-      <Balance/>
+      <Balance saldo="9.250,00" gastos="-527,50"/>
 
     </View>
   );
