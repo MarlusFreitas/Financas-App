@@ -66,7 +66,7 @@ hide:{
     backgroundColor: '#DADADA',
     width: 80,
     borderRadius: 8,
-    height: 15,
+    height: 12,
     marginTop: 8,
 }
 })
